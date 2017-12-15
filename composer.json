@@ -1,0 +1,13 @@
+{
+    "name": "tinywan/easy-live",
+    "description": "nginx live",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tinywan",
+            "email": "756684177@qq.com"
+        }
+    ],
+    "require": {}
+}
